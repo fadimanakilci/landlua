@@ -5,8 +5,12 @@
 ![GitHub license](https://img.shields.io/github/license/fadimanakilci/landlua)
 ![Platform](https://img.shields.io/badge/platform-Flutter-blue)
 
+<br>
+
 > **Dynamically customize your Flutter app's UI and behavior with Lua scripting,
 > eliminating the need for frequent updates on app stores!** 🚀
+
+<br>
 
 ## 🚀 Introduction
 
@@ -15,6 +19,8 @@ application's user interface, data, and behavior remotely. By integrating Lua sc
 this project allows you to dynamically alter app components on the fly, freeing you from the 
 constraints of constant updates and app store approval processes.
 
+<br>
+
 ## ✨ Key Features
 
 - **Dynamic UI Updates**: Modify UI components without needing to push updates to app stores.
@@ -22,11 +28,15 @@ constraints of constant updates and app store approval processes.
 - **Remote Configuration**: Fetch and execute Lua scripts directly from your server.
 - **Flexible & Scalable**: Perfect for apps that require frequent changes in design, content, or features.
 
+<br>
+
 ## 🎯 How It Works
 
 1. **Fetch Lua Scripts**: The app fetches Lua scripts from a remote server.
 2. **Execute Scripts**: Lua scripts are executed within the app, allowing real-time updates.
 3. **Output Integration**: Lua's `print` function outputs directly to Flutter’s console for debugging and monitoring.
+
+<br>
 
 ## 🛠️ Setup & Installation
 
@@ -53,6 +63,8 @@ Follow these steps to get the app up and running:
 
 4. **Enjoy the power of Lua scripting in your Flutter app!**
 
+<br>
+
 ## 🔧 Configuration
 
 To modify the Lua script fetching behavior, update the `getLuaScriptFromServer()` function within your code:
@@ -66,6 +78,8 @@ String getLuaScriptFromServer() {
 }
 ```
 
+<br>
+
 ## 📄 Sample Output
 
 Example output directly from Lua running in your app:
@@ -77,6 +91,8 @@ Example output directly from Lua running in your app:
 [LUA] a value is 19
 ```
 
+<br>
+
 ## 🤝 Contributing
 
 We welcome contributions! To contribute:
@@ -87,9 +103,13 @@ We welcome contributions! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
+<br>
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+<br>
 
 ## 📬 Contact
 
@@ -99,9 +119,13 @@ Have questions? Feel free to reach out!
 - **Email**: [fadimekilci07@gmail.com](mailto:fadimekilci07@gmail.com)
 - **LinkedIn**: [@fadimanakilci](https://www.linkedin.com/in/fadimanakilci/)
 
+<br>
+
 ## 🌟 Show Your Support
 
 If you like this project, please give it a ⭐ and share it with your friends!
+
+<br>
 
 ---
 
